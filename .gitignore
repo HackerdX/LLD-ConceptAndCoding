@@ -1,4 +1,4 @@
-StrategyPattern.iml
+*.iml
 .idea
 /*/build.gradle.kts
 /*/settings.gradle.kts
